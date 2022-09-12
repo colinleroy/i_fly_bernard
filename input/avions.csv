@@ -1,6 +1,7 @@
 ﻿registration,icao24,proprio,date_acquisition,model,type,msn,us_gallons_per_hour,co2_kg_per_hour,last_check,radié
 F-HFHP,3994ef,avion du groupe Pinault,10/06/2020,Bombardier Global 7500,BD-700-2A12,70022,460,4500,2022-09-10,non
 F-GVMA,395580,avion de Bernard Arnault,14/09/2020,Bombardier Global 7500,BD-700-2A12,70020,460,4500,2022-09-01,oui
+D-AGLO,??????,avion de Bernard Arnault,12/09/2022,Bombardier Global 7500,BD-700-2A12,70020,460,4500,2022-09-12,non
 F-HMBY,39b038,avion du groupe Bouygues,01/12/2016,Bombardier Global 6000,BD-700-2A12,9748,480,4700,2022-09-10,non
 F-HVBL,39d42b,avion #2 du groupe Bolloré,14/06/2013,Dassault Falcon-7X,Falcon-7X,188,320,3120,2022-09-10,non
 F-GBOL,3905cb,avion #1 du groupe Bolloré,17/06/2013,Bombardier Global 6000,BD-700-1A10,9500,480,4700,2022-09-10,non
